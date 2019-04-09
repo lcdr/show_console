@@ -1,0 +1,1 @@
+Minimal DLL to show a console for GUI applications.
