@@ -5,7 +5,7 @@ authors = ["lcdr"]
 edition = "2018"
 readme = "README.md"
 license = "AGPL-3.0-or-later"
-repository = "https://bitbucket.org/lcdr/show_console/"
+repository = "https://github.com/lcdr/show_console/"
 
 [dependencies]
 winapi = { version = "0.3.6", features = ["consoleapi"] }
